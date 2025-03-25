@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# Terraform-project
-setting up terraform A-Z
-=======
-# Terraform Zero to Hero course
+
+## setting up terraform project A-Z
 
 ## Day 1: Getting Started with Terraform
 
